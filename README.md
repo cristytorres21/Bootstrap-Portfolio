@@ -1,2 +1,4 @@
-# bootstrap-portfolio
-Portfolio using bootstrap
+# Bootstrap Portfolio
+## Synopsis
+
+A basic portfolio template using HTML, CSS, and Bootstrap
